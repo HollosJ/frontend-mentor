@@ -320,9 +320,7 @@ body {
   }
   .testimonials-testimonial:nth-child(3) {
     margin-right: 0;
-    -ms-flex-item-align: end;
-        -ms-grid-row-align: end;
-        align-self: end;
+    place-self: flex-end;
   }
 }
 /*# sourceMappingURL=main.css.map */
