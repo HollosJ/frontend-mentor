@@ -260,7 +260,7 @@ body {
 
       &:nth-child(3) {
         margin-right: 0;
-        align-self: end;
+        place-self: flex-end;
       }
     }
   }
